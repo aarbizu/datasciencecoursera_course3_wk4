@@ -4,7 +4,7 @@
 - Source data:  'Human Activity Recognition Using Smartphones Dataset' Version 1.0
 - Source data URL: Available from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-The R script with this repo, run_analysis.R processes the data as follows:
+The R script with this repo, `run_analysis.R`, processes the data as follows:
 - R library depdendencies => { `dplyr` }
 - Assumes the data from UCI is extracted to 'UCI HAR Dataset'
   - if different, edit the `har_data_directory` variable on line 12
