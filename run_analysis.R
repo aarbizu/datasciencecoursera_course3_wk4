@@ -93,5 +93,3 @@ write.table(average_by_subject_and_activity, file=output_file,row.names=F)
 
 print(average_by_subject_and_activity)
 
-
-
